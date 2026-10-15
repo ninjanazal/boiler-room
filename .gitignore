@@ -1,0 +1,5 @@
+target/
+node_modules/
+dist/
+# Obsidian per-device UI state
+boiler-room-vault/.obsidian/workspace*.json
